@@ -2,10 +2,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Comparison</title>
+    <title>Smartphone Comparison</title>
 </head>
 <body>
-  <table border="1">
+ <table border="1">
         <caption>Comparison of Smartphone Models</caption>
         <thead>
             <tr>
@@ -16,27 +16,27 @@
         <tbody>
             <tr>
                 <td>Brand</td>
-                <td>Model</td>
+                <td>Technova X10</td>
                 <td>$799</td>
             </tr>
             <tr>
                 <td>Brand</td>
-                <td>Model</td>
+                <td>GalaxyZoom 11</td>
                 <td>$999</td>
             </tr>
             <tr>
                 <td>Brand</td>
-                <td>Model</td>
+                <td>PixelMaster 5</td>
                 <td>$1200</td>
             </tr>
         </tbody>
     </table>
-    <h3>Conclusions:</h3>
+  <h3>Conclusions:</h3>
     <ul>
-        <li>Product 1 is the most affordable option with decent features.</li>
-        <li>Product 3 offers the highest price with advanced features.</li>
-        <li>Product 2 is a middle-range option offering a balance of price and features.</li>
+        <li>The Technova X10 offers the best value for money with decent features at an affordable price.</li>
+        <li>The GalaxyZoom 11 is a middle-tier smartphone that provides advanced features without breaking the bank.</li>
+        <li>The PixelMaster 5 is the most expensive, targeting users who want the latest technology and are willing to pay more.</li>
     </ul>
-
 </body>
 </html>
+
