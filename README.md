@@ -33,9 +33,9 @@
     </table>
   <h3>Conclusions:</h3>
     <ul>
-        <li>The Technova X10 offers the best value for money with decent features at an affordable price.</li>
-        <li>The GalaxyZoom 11 is a middle-tier smartphone that provides advanced features without breaking the bank.</li>
-        <li>The PixelMaster 5 is the most expensive, targeting users who want the latest technology and are willing to pay more.</li>
+        <li>The Technova X10 offers the best value for money with decent features at an affordable price</li>
+        <li>The GalaxyZoom 11 is a middle-tier smartphone that provides advanced features without breaking the bank</li>
+        <li>The PixelMaster 5 is the most expensive, targeting users who want the latest technology and are willing to pay more</li>
     </ul>
 </body>
 </html>
